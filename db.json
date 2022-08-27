@@ -1,0 +1,24 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Ann Oreng",
+        "school": "Moringa School"
+      },
+      {
+        "id": 2,
+        "name": "Bofulo",
+        "school": "Havard"
+      },
+      {
+        "name": "Kelvin",
+        "school": "USIU",
+        "id": 3
+      },
+      {
+        "name": "Kariuki",
+        "school": "JKUAT",
+        "id": 4
+      }
+    ]
+  }
